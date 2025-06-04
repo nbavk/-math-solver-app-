@@ -2,7 +2,7 @@
   "name": "math-solver-app",
   "version": "0.1.0",
   "private": true,
-  "type": "module", // <-- यह लाइन जोड़ी गई है
+  "type": "module", 
   "workspaces": [
     ".",
     "worker"
